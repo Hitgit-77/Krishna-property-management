@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krishna Property Management</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Krishna Property Management</h1>
+        <p>Your trusted partner in property management</p>
+    </header>
+    <section>
+        <h2>About Us</h2>
+        <p>At Krishna Property Management, we offer top-notch services for managing residential and commercial properties.</p>
+    </section>
+    <section>
+        <h2>Our Services</h2>
+        <ul>
+            <li>Property Rentals</li>
+            <li>Property Maintenance</li>
+            <li>Tenant Management</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Contact us at <a href="mailto:info@krishnaproperty.com">info@krishnaproperty.com</a></p>
+    </footer>
+</body>
+</html>
